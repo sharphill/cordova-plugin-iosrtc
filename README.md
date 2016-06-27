@@ -295,7 +295,7 @@ Methods such as `play()`, `pause()` are not implemented. In order to pause a vid
 
 ## Author
 
-Iñaki Baz Castillo at [eFace2Face, inc.](https://eface2face.com)
+Sharphill at [Edening](https://edening.net)
 
 
 ## License
